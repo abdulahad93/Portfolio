@@ -1,0 +1,22 @@
+[
+  {
+    "title": "VS Code",
+    "imageSrc":"skills/vscode-logo.png"
+  },
+  {
+    "title": "IntelliJ Idea",
+    "imageSrc": "skills/IntelliJ_IDEA_logo_01.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/download.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/Postman-348x293.png"
+  }
+]
